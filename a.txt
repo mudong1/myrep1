@@ -3,4 +3,5 @@ bbbbbb
 cccccc
 哦，是吗
 my is mudong2,yes.
-dddddddddddddddd
+ddddddddddddddd
+mudong1 ssh免密咯
